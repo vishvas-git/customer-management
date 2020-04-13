@@ -1,1 +1,1 @@
-# customer-management API (with simple CRUD Operations using H2 DB)
+# customer-management API (with basic CRUD Operations using H2 DB)
